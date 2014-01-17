@@ -1,0 +1,3 @@
+Cython
+-e git+http://code.dapps.douban.com/python-libmemcached.git#egg=cmemcached
+-e git+http://code.dapps.douban.com/xutao/douban-utils.git#egg=douban-utils
